@@ -4,7 +4,7 @@ Introduction:
 
 Description:
 
-	Modify the author's(Mark Allen Weiss) "MyLinkedList" class to add the following methods:
+Modify the author's(Mark Allen Weiss) "MyLinkedList" class to add the following methods:
 	
 	a)  swap
 			receives two index positions as parameters, and swaps the nodes at
